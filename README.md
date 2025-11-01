@@ -44,7 +44,7 @@ Where:
 
 ## How to Use
 1. Open the notebook in Google Colab:  
-[Open in Google Colab](https://colab.research.google.com/github/<your_username>/Smart-WiFi-Router-Placement/blob/main/Smart_WiFi_Router_Placement.jynb)  
+[Open in Google Colab](https://colab.research.google.com/drive/1rkXjQQCarCu2pqLoRVfmnKCHN7uz6mZZ?usp=sharing)  
 
 2. Execute the notebook step by step:
    - Define the **positions of users**  
